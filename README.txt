@@ -9,6 +9,7 @@
 a. Assignment1.cpp
 b. Counter.h
 c. Counter.cpp
+d. sampleDNA.txt
 
 3.) Description of any known compile/runtime errors, or bugs.
  a. None as of final testing.
@@ -24,4 +25,4 @@ c. cplusplus.com
 2.) Change directories to the correct directory with Assignment1.cpp.
 3.) Ensure that DNA file you wish to read from is in the directory as well.
 3.) Compile using g++ *.cpp -o assignment1.
-4.) Run using ./assignment1 [dnaTextFileHere].
+4.) Run using ./assignment1 sampleDNA.txt to observe functionality.
